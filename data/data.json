@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "productName": "LG Television",
+    "image": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876__340.jpg",
+    "quantity": "10",
+    "price": "6.50",
+    "imported": true,
+    "description": "The best television in the world"
+  },
+  {
+    "id": 1,
+    "productName": "Panasonic Television",
+    "image": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876__340.jpg",
+    "quantity": "15",
+    "price": "4.50",
+    "imported": true,
+    "description": "The second best television in the world"
+  },
+  {
+    "id": 2,
+    "productName": "Huawei Television",
+    "image": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876__340.jpg",
+    "quantity": "10",
+    "price": "3.00",
+    "imported": true,
+    "description": "The somewhat good television in the world"
+  },
+  {
+    "id": 3,
+    "productName": "Ajoke Television",
+    "image": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876__340.jpg",
+    "quantity": "20",
+    "price": "2.50",
+    "imported": false,
+    "description": "The best television in Nigeria"
+  },
+  {
+    "id": 4,
+    "productName": "Chibuike Television",
+    "image": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876__340.jpg",
+    "quantity": "19",
+    "price": "2.50",
+    "imported": false,
+    "description": "Also The best television in Nigeria"
+  }
+]

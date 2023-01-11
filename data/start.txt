@@ -1,0 +1,1 @@
+This is the starter text file for reading texts with node js fs module.

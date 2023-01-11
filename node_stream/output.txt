@@ -1,0 +1,1 @@
+I want to write some data with the write stream into the output file
